@@ -31,6 +31,16 @@ a.	Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid.
 b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 5.	Tampilkan Hasil
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
+
+<p>
+<strong>
+Berikut adalah gambaran kalkulatornya:
+</strong>>
+</p>
+
+<br>
+<img width="400" src=(https://github.com/user-attachments/assets/f8684f49-be26-463e-8876-ec1ddee04ff1)
+
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 
 
